@@ -1,0 +1,1039 @@
+# Exported from Wings 3D 1.4.1
+newmtl 01___Default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.5882 0.5882 0.5882
+Ka 0.5882 0.5882 0.5882
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Ka D-normal.png
+mak_Ks D-specular.png
+map_Kd D.jpg
+
+newmtl cube1_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka road-normal.png
+map_Kd road.png
+map_Ks road-specular.png
+
+newmtl cube1_auv2
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka hangar-normal.png
+map_Ks hangar-specular.png
+map_Kd hangar.png
+
+newmtl cube1_auv3
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka hangar-normal.png
+map_Ks hangar-specular.png
+map_Kd hangar.png
+
+newmtl cube1_auv4
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka tower-normal.png
+map_Kd tower.png
+map_Ks tower-specular.png
+
+newmtl default
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl default2
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl default3
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl default4
+Ns 100.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl grid1_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd grass.jpg
+map_Ka grass-normal.jpg
+map_Ks grass-specular.jpg
+
+newmtl pasted__acmat_0
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_100
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_101
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_102
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_103
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_104
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_105
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_106
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_107
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_108
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_109
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_110
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_111
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_112
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_113
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_114
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_115
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_116
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_117
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_118
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_12
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_2
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_21
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_28
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_4
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_40
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_41
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_43
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_44
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_45
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_46
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_47
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_5
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_50
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_55
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_57
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_58
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_59
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_6
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_60
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_61
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_62
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_63
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_64
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_65
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_66
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_67
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_68
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_7
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_70
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_72
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_73
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_74
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_75
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_76
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_77
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_78
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_79
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_8
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka default-normal.png
+map_Ks default-specular.png
+map_Kd Default.png
+
+newmtl pasted__acmat_80
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_81
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_82
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl pasted__acmat_83
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_84
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_85
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_86
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_87
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_88
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_89
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_90
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_91
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_92
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_93
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_94
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_95
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_96
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_97
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_98
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+
+newmtl pasted__acmat_99
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Ka Engine-normal.png
+map_Ks Engine-specular.png
+map_Kd Engine.png
+

@@ -1,0 +1,21 @@
+# Exported from Wings 3D 1.4.1
+newmtl Ceiling
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.001 0.001 0.001
+Ks 0.001 0.001 0.001
+Ke 0.0 0.0 0.0
+map_Kd ceiling.png
+
+newmtl Sky Side
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.001 0.001 0.001
+Ks 0.001 0.001 0.001
+Ke 0.0 0.0 0.0
+map_Kd sky.png
+

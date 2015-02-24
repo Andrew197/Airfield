@@ -1,0 +1,9 @@
+KEYBOARD CONTROLS
+-----------------
+WASD Keys: fly around the scene
+
+MOUSE CONTROLS
+--------------
+click and drag: rotate the camera
+Left Ctrl + Click and drag: rotate the spotlight
+
